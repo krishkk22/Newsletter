@@ -1,0 +1,120 @@
+body{
+
+    max-width: 600px;
+    margin: 0px auto;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+
+.Main{
+
+    background-color: black;
+}
+
+
+
+.logo{
+
+    float: right;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+
+}
+
+
+.topic {
+
+    text-align: center;
+    padding-top: 210px;
+    padding-left: 5px;
+
+}
+
+.topic img{
+
+    padding-right: 30px;
+}
+
+.Information{
+
+    text-align: center;
+    padding-top: 45px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.Name{
+
+    text-align: center;
+    padding-top: 45px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.Name p1{
+
+    color: green;
+}
+
+.Name img{
+
+    padding-top: 25px;
+}
+
+.Name p{
+
+    margin: 0;
+}
+
+.Date{
+    
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    border: 2px solid;
+    background-color: #4C4C4C;
+    border-color: black;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+
+} 
+
+.Address{
+
+    text-align: center;
+    padding-top: 25px;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.mail{
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mail p{
+
+    margin: 0;
+}
+
+
+.Contact{
+
+    text-align: center;
+    font-size: 18px;
+    border: 2px solid;
+    padding: 30px;
+    background-color: #4C4C4C;
+    border-color: black;
+    max-width: 600px;
+    margin-top: 100px;
+}
